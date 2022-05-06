@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @now-cooking
 - 👀 I’m interested in developing software applications of various scale primarily as a backend developer
-- 🌱 I’m currently learning more on DSA and design scalable systems
+- 🌱 I’m currently learning more on DSA and designing scalable systems
 - 💞️ I’m looking to collaborate on low-level design
 - 📫 Reach me @ https://www.linkedin.com/in/udaychandrakumar/
 
