@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @now-cooking.
+- 👋 Hi, I’m Uday!
 - 👀 I’m interested in developing large scale software applications.
 - 🌱 I’m currently learning more on DSA and designing scalable systems.
 - 💞️ I’m looking to collaborate on scalable product development and a friend to practice DSA problems together!
